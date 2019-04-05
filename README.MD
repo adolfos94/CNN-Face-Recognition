@@ -6,7 +6,7 @@ This software uses a python's server based on REST to connect with a mobile appl
 
 # Model of the CNN:
 
-![Alt text](https://bitbucket.org/adolfo_s94/cnn-face-recognition/raw/43469c7f9af6d7a1ab61303aae74cb35339e7aa2/model_plot.png?raw=true "CNN MODEL")
+![Alt text](https://github.com/adolfos94/CNN-Face-Recognition/blob/master/model_plot.png?raw=true "CNN MODEL")
 
 ## Functions
 
